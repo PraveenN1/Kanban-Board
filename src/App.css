@@ -127,10 +127,18 @@ body {
 }
 
 .card-tags {
-  font-size: 12px;
-  color: #888;
-}
 
+  color: #888;
+  border:1px solid #c5c5c5;
+  border-radius:5px;
+  padding: 5px;
+}
+.card-priority{
+  font-size: 0px;
+  border:1px solid #c5c5c5;
+  border-radius:5px;
+  padding: 6px;
+}
 /* Display Button Styles */
 .dropdown {
   position: relative;
